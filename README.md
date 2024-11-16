@@ -4,4 +4,4 @@
 
 | ### My Desktop                                                                                       |
 |------------------------------------------------------------------------------------------------------|
-| ![Screenshot (1)](https://github.com/user-attachments/assets/460dd62f-37f4-4bea-84f1-| c76d57bffc00) |
+![Screenshot (1)](https://github.com/user-attachments/assets/460dd62f-37f4-4bea-84f1-| c76d57bffc00) 
